@@ -1,6 +1,6 @@
 # srs-cpp-prototype
 
-Legal Move Generation in Tetris
+Legal Move Generation in Tetris (in Japanese):  
 https://gist.github.com/knewjade/df3403a266c4eea33c2c94fb3fb7c3b2
 
 This repository is a reimplementation of https://github.com/ImpleLee/fast-reachability. (Thanks to ImpleLee!)
